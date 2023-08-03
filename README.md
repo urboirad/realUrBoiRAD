@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realUrBoiRAD
-- 👀 I’m interested in / Gamedev
-- 🌱 I’m currently learning / Godot (GD Script), Java, Python
+- 👀 I’m interested in / Software Dev & Gamedev
+- 🌱 I’m currently learning / Godot (GD Script), C#, C++, Python
 - 📫 How to reach me / Twitter: @gemmaRikku
 
 <!---
